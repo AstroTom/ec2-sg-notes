@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EC2 Security Group Notes",
+    "description": "This is the name of the extension."
+  },
+  "comName": {
+    "message": "Diamond Inc.",
+    "description": "This is the name of the company."
+  },
+  "appDesc": {
+    "message": "This extension allows you to save notes on EC2 Security Group rules.", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
