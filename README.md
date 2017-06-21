@@ -2,6 +2,8 @@
 
 Chrome extension for EC2 Security Groups to remember why a rule is there (local storage only)
 
+https://chrome.google.com/webstore/detail/ieeeikfmpalghoahehembnilldjobmgg
+
 Contributions welcome!
 
 ### Credits
